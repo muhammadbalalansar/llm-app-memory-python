@@ -28,7 +28,6 @@ pip install -r requirements.txt
 Ensure Qdrant is running
 The app expects Qdrant to be running on localhost:6333. Adjust the configuration in the code if your setup is different.  
 
-
 Bash
 docker pull qdrant/qdrant
 
