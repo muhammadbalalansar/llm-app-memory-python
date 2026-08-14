@@ -27,6 +27,7 @@ This Streamlit app is an AI-powered chatbot that uses OpenAI's GPT-4o model with
    cd llm-app-memory-python
 Install the required dependencies
 
+
 Bash
 pip install -r requirements.txt
 Ensure Qdrant is running
