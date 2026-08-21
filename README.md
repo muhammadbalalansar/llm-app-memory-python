@@ -13,8 +13,7 @@ This Streamlit app is an AI-powered chatbot that uses OpenAI's GPT-4o model with
 * Allows users to view their conversation history
 * Provides a user-friendly interface with Streamlit
 
----
-
+--
 
 ### 🚀 How to Get Started
 
