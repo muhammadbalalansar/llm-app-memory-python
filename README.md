@@ -6,7 +6,6 @@ This Streamlit app is an AI-powered chatbot that uses OpenAI's GPT-4o model with
 
 ---
 
-
 ### ✨ Features
 
 * Utilizes OpenAI's GPT-4o model for generating responses
