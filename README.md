@@ -13,7 +13,7 @@
 
 --
 
-### 🚀 How to Get Started :
+### 🚀 How to Get Started 
 
 1. **Clone the GitHub repository**
    ```bash
